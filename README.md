@@ -6,7 +6,7 @@ description: '-an introduction to this document''s purpose, and how it''s laid o
 
 #### Overview
 
-Your invitation here is the result of a conscious choice, meaning that in some capacity: we want you to be a part of this. This is a repository for all things related to the development of EVR; that they may be shared with interested/ invested parties, and referenced by those working on the project itself.
+&#x20;This is a repository for all things related to the development of EVR; that they may be shared with interested/ invested parties, and referenced by those working on the project itself.
 
 #### How best to approach the work
 
@@ -24,6 +24,6 @@ Blue & White papers get into the specifics of how those tools are constructed (f
 
 #### Special Note from the Author
 
-To be clear, this draft is still incomplete to varying degrees. Some pages are in need of an edit or two, some are placeholders for content that hasn't been uploaded yet, others are basically idea soup spilled onto a page. Prefixes attached to the titles of each page are used in tracking the relative level of completion for each. But ever onward! -With any luck throughput will increase proportionate to the discomfort felt in publishing it in such a state.
+To be clear, this draft is still incomplete to varying degrees. Some pages are in need of an edit or two, some are placeholders for content that hasn't been uploaded yet, others are basically idea soup spilled onto a page. Prefixes attached to the titles of each page are used in tracking the relative level of completion for each.&#x20;
 
-You can contact directly via email: [Garrett@theikigaiproject.org](mailto:Garrett@theikigaiproject.org). Or follow our \*very sparse\* media presence @Evr\_app on [Twitter](https://twitter.com/Evr\_App), [Instagram](https://www.instagram.com/evr\_app/), or [TikTok](https://www.tiktok.com/@evr\_app)
+You can contact directly via email: [Garrett@theikigaiproject.org](mailto:Garrett@theikigaiproject.org). Or follow our \*very sparse\* media presence @Evr\_app on [Twitter](https://twitter.com/Evr_App), [Instagram](https://www.instagram.com/evr_app/), or [TikTok](https://www.tiktok.com/@evr_app)
