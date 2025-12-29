@@ -14,7 +14,6 @@ Definition:  The set of protocols and associated metrics needed to facilitate se
 
 #### Where it occurs/ how we initiate it
 
-Community Governance processes are initiated whenever a procedural or ethical dilemma arises, and whenever Guild level decisions need be made.\
-
+Community Governance processes are initiated whenever a procedural or ethical dilemma arises, and whenever Guild level decisions need be made.<br>
 
 [Philosophy](../../white-paper/1.9-community-governance-structure/)
